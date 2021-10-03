@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cezzel
-- 👀 I’m interested in data science& human factors & game design
+- 👀 I’m interested in data science & human factors & game design
 - 🌱 I’m currently learning python & R
 
 <!---
