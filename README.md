@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cezzel
 - 👀 I’m interested in data science & human factors & game design
-- 🌱 I’m currently learning python & R
+- 🌱 I’m currently learning python, R and C#(Unity)
 
 <!---
 Cezzel/Cezzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
